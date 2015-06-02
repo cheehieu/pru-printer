@@ -4,7 +4,7 @@ title: pru-printer
 subtitle: A thermal printer reference design featuring the PRU-ICSS on the BeagleBone Black.
 ---
 
-<img src="images/printer_protoype.jpg">
+<img src="images/printer_prototype.jpg">
 
 ## Overview
 This project is a thermal printer reference design featuring the PRU-ICSS on the AM335x. It was inspired by a similar project by [Andreas Dannenberg](https://gitorious.design.ti.com/pruprinter), who prototyped a functioning thermal printer out of a gutted POS unit and a BeagleBone Black. Here is a video of his prototype: [https://youtu.be/tVr5VrtNZiQ].
